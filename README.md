@@ -5,7 +5,6 @@
 - [Introduction](#introduction)
 - [Dataset](#dataset)
   - [Description](#description)
-  - [Source](#source)
 - [Data Preprocessing](#data-preprocessing)
 - [Dashboards](#dashboards)
   - [Power BI Dashboard](#power-bi-dashboard)
@@ -28,9 +27,6 @@ The stock market is a dynamic and multifaceted system. To navigate it effectivel
 ## Dataset
 ### Description
 The dataset, "synthetic_stock_data.csv," spans 138 years and includes metrics such as stock prices, trading volumes, dividends, moving averages, RSI, MACD, market volatility, and company valuations.
-
-### Source
-- [Historical Stock Prices](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data)
 
 ## Data Preprocessing
 - Addressed null values
@@ -71,4 +67,3 @@ Our comprehensive analysis provides valuable insights for investors, aiding in m
 
 ## References
 - Complete Project Link: [Unveiling Key Stock Market Trends](https://analytixedge.blogspot.com/2024/08/unveiling-key-stock-market-trends-data.html)
-- Dataset Link: [Historical Stock Prices](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data)
