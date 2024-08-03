@@ -1,5 +1,24 @@
 # Unveiling Key Stock Market Trends: A Data-Driven Approach
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+  - [Description](#description)
+  - [Source](#source)
+- [Data Preprocessing](#data-preprocessing)
+- [Dashboards](#dashboards)
+  - [Power BI Dashboard](#power-bi-dashboard)
+  - [Tableau Dashboard](#tableau-dashboard)
+- [Analysis](#analysis)
+  - [Stock Performance Analysis](#stock-performance-analysis)
+  - [Dividend and Valuation Metrics](#dividend-and-valuation-metrics)
+  - [Market Capitalization and Price Range](#market-capitalization-and-price-range)
+  - [Market Sentiment Indicators](#market-sentiment-indicators)
+- [Strategic Recommendations](#strategic-recommendations)
+- [Conclusion](#conclusion)
+- [References](#references)
+
 ## Project Overview
 This project delves into historical stock market data to uncover trends and patterns that can inform investment strategies. By using various analytical and machine learning techniques, we aim to provide actionable insights and reliable forecasts to guide investors.
 
@@ -19,21 +38,13 @@ The dataset, "synthetic_stock_data.csv," spans 138 years and includes metrics su
 - Standardized date formats
 - Manipulated data using Power Query Editor, Excel, Power BI, Tableau, and MySQL
 
-## Tools Used
-- **Microsoft Excel:** Data manipulation and visualization
-- **Tableau:** Dashboard creation and visualization
-- **MySQL:** Handling large datasets
-- **Microsoft Power BI:** Data transformation and visualization
-
 ## Dashboards
-### Excel Dashboard
-![Excel Dashboard](image_link)
 
 ### Power BI Dashboard
-![Power BI Dashboard](image_link)
+![Power BI Dashboard](https://app.powerbi.com/links/lHj_UkaisJ?ctid=0eefea66-f8bf-48b6-b0b9-34cac883663b&pbi_source=linkShare)
 
 ### Tableau Dashboard
-[View Tableau Dashboard](https://public.tableau.com/profile/tableau_link)
+[View Tableau Dashboard]([https://public.tableau.com/profile/tableau_link](https://public.tableau.com/views/StockAnalysisusingTableau/Home?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## Analysis
 ### Stock Performance Analysis
