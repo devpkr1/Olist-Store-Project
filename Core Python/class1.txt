@@ -1,0 +1,149 @@
+2hr--session 
+30min--15min
+notes--by the end of session 
+
+Introduction to Python 
+----------------------
+who designed?
+what is python?
+where to use python?
+why python?
+how to use python?
+--Guido van Rossum 
+ABC--project 
+
+1989-1991-->python 0.9.0
+feature-Exception handling(errors),functions and core datatype(list,strings and dict) 
+
+1994-python 10 
+features-modules(reuse of code)
+new datastructure "lambda"
+
+2000-python 2.0 
+feature-garbage collection system (it will help manage memory automatically),
+list comprehensions 
+
+2008--python 3.0 
+--better handling of Unicode
+--better redundance 
+
+2010--python 3.2
+--very powerfull framework for writing asynchronous
+--connection with web server
+
+2014--python 3.4
+--multiple tasks were simultaneously conducted 
+
+2015-python 3.5 
+--"async" and "await" 
+
+2018-python 3.7 
+--boilerplate code can also be included 
+
+2020-python 3.10 
+--walrus operator(:=)
+
+2022-python 3.11 
+--performance improvement,debugging easier 
+
+what is Python?
+--cross platform programming language(windows,macos etc)
+--it is free and open source 
+
+why/where in python?
+--game desinging 
+--application 
+--prediction(ML,DL,AI)
+--dynamic programming
+--free 
+--large community for dealing with error
+--it is very simple or it has very basic syntax 
+
+where python?
+--VSC(visual studio code)
+--jupyter 
+--PyCharm 
+--online compliers 
+--idle 
+
+https://www.anaconda.com/download/success 
+
+Python Keywords and identifers 
+------------------------------
+Keywords -->Reserved words in python 
+identifers-->
+
+--predefined and special meaning to compiler 
+--it canot be used has variable name,function name or any other identifier 
+--it is used to define syntax and structure 
+--
+
+INTERPRETER AND COMPLIER 
+
+INTERPRETER --execute the code line by line(Dynamic)
+COMPLIER-entire code at shot 
+
+
+
+
+
+
+
+
+
+Python Keywords and identifers 
+------------------------------
+Keywords -->Reserved words in python 
+identifers-->Name given to varibles or function 
+a=10;
+what is the difference between variable and identifer 
+variable--name given to a memory location,this is used to hold the value 
+identifers-it is used to idenity an entity uniquenly in a program at the time of exceution
+ex:
+a=10
+
+
+rules for naming N IDENTIFER 
+1)it canot be a keyword 
+2)they are case sensitive 
+a=10
+print(A) 
+3)it should always begin with letter or an _
+4)whitespace are not allowed
+5)we canot use special symbols
+keywords 
+--predefined and special meaning to compiler 
+--it canot be used has variable name,function name or any other identifier 
+--it is used to define syntax and structure 
+python comments 
+---------------
+--it is ignored by the interpreter they meant to follow the programmers 
+1)single line comment -- "#"
+2)multiline comment -- "",'',""" 
+what is the difference between string and multiline comment ?
+"Assigning values to variable in python" 
+"="
+excelr="python"
+excelr
+"changing the value of a varible in python "
+excelr="python"
+excelr
+excelr="javascript"
+excelr
+"Assinging muliple values to multiple variable"
+a,b,c=1,2.2,"akshatha"
+print(a)
+print(b,c)
+"Assign the same value to muilple varaibles" 
+a=10
+b=20
+a=b=10
+print(a,b) 
+
+constants 
+---------
+-A constant is a spcial type of variable whose value cannot be changed 
+
+
+
+
